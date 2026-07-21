@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Downsell +1000 Sesiones de Entrenamientos de Fútbol ",
+  "description": "Página de ventas optimizada y de alta conversión para entrenadores de fútbol, profesores y escuelas deportivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
